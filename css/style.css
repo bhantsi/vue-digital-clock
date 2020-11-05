@@ -3,7 +3,7 @@ html, body {
   }
   
   body {
-    background: url("https://s17.postimg.org/xx4w2w7j3/image.jpg");
+    background: url("https://res.cloudinary.com/bhantsi/image/upload/v1604616095/mbuntu-1.jpg");
     background-size: cover;
   }
   
@@ -22,7 +22,7 @@ html, body {
     -webkit-transform: translate(-50%, -50%);
             transform: translate(-50%, -50%);
     color: white;
-    text-shadow: 0 0 20px #0aafe6, 0 0 20px rgba(10, 175, 230, 0);
+   
   }
   #clock .time {
     letter-spacing: 0.05em;
@@ -31,11 +31,11 @@ html, body {
   }
   #clock .date {
     letter-spacing: 0.1em;
-    font-size: 24px;
+    font-size: 32px;
   }
   #clock .text {
     letter-spacing: 0.1em;
-    font-size: 12px;
+    font-size: 23px;
     padding: 20px 0 0;
   }
   
